@@ -1,6 +1,8 @@
+Paper Title: Interpretable Retinal Disease Classification from OCT Images Using Deep Neural Network and Explainable AI
+
 Venue: International Conference on Electronics, Communications and Information Technology 2021 ICECIT 2021
 
-Submission date: 25th July, 2021
+Submission Date: 25th July, 2021
 
 Paper Type: Full paper
 
